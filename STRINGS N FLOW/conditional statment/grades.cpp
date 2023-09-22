@@ -35,3 +35,4 @@ cout<<obj.grades()
     
 
 }
+class sstudent()
